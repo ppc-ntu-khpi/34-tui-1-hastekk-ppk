@@ -1,6 +1,6 @@
 # UI Lab 1
 
-## Код для зчитування інформації
+## код зчитування інформації
 ``` java
 public static void main(String[] args) throws Exception {
         TUIdemo tdemo = new TUIdemo();
