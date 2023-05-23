@@ -19,8 +19,8 @@ public static void main(String[] args) throws Exception {
     }
 ```  
 ## customer report
-![](images/1.png) 
-![](images/2.png)
+![](image/1.png) 
+![](image/2.png)
 ## Код
 ``` java
 package com.mybank.tui;
@@ -64,9 +64,9 @@ public class CustomerReport {
 ```
 
 ## customer window adding
-![](images/3.png)
-![](images/5.png)
-![](images/6.png)
+![](image/3.png)
+![](image/5.png)
+![](image/6.png)
 ## вміст customer window
 ``` java
 private void ShowCustomerDetails() {
@@ -148,8 +148,8 @@ custWin.addButton("&Add", 2, 10, new TAction() {
 });
 ```
 ## віднімання балансу
-![](images/7.png)
-![](images/8.png)
+![](image/7.png)
+![](image/8.png)
 ## код віднімання до балансу
 ``` java
 custWin.addButton("&Remove", 12, 10, new TAction() {
